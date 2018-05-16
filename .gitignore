@@ -1,0 +1,16 @@
+syntax: glob
+.vs
+doc
+embedded
+Debug
+Release
+*.aps
+*.cdb
+*.mk
+*.ncb
+*.obj
+*.pp
+*.opt
+*.suo
+*.user
+makefile
